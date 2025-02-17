@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)]("https://rodrigocarvalhodev.com")
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("rodrigocarvalhodevpro@gmail.com")
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]("https://instagram.com/rodrigo.junior_")
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]("https://www.instagram.com/rodrigo.junior")
 
 
 ![Rodrigo carvalho's GitHub stats](https://github-readme-stats.vercel.app/api?username=RodrigoCarvalho-Dev&show_icons=true&theme=radical)
